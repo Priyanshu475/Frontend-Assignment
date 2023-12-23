@@ -1,3 +1,8 @@
+## Tech Stack
+NEXT.JS + TAILWIND CSS
+
+
+
 ## Features
 
 - **Dynamic Grouping:** Users can group tickets based on three criteria - Status, User, and Priority.
