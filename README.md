@@ -10,7 +10,7 @@
 ![Screenshot from 2023-12-23 21-40-19](https://github.com/Priyanshu475/Frontend-Assignment/assets/96469123/3d951e44-6364-474f-9671-42783c49582d)
 
 
-Check out the live demo of the CypherX Kanban Board-"https://assignment-frontend-rho.vercel.app/"
+Check out the live demo of the CypherX Kanban Board-"https://frontend-assignment-lilac-two.vercel.app/"
 
 ## Getting Started
 
